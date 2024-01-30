@@ -1,0 +1,4 @@
+component shouldn't know anything about http request
+
+\*Displaying the Genres
+html by default is 100% width
