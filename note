@@ -2,3 +2,7 @@ component shouldn't know anything about http request
 
 \*Displaying the Genres
 html by default is 100% width
+
+\*how do we share state between two components?
+
+\*the component holding the state should be the one holding it
