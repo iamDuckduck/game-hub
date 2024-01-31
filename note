@@ -8,3 +8,7 @@ html by default is 100% width
 \*the component holding the state should be the one holding it
 
 \*what is a hook?
+
+*passing data down to many layer of children components 
+by props may  not be a good idea. (imagine we have a more 
+nested component structure)
